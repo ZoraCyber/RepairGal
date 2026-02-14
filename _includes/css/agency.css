@@ -5,7 +5,7 @@
  */
 
 @font-face {
-    font-family: terminal_grotesque;
+    font-family: 'terminal_grotesque';
     src: url("{{ site.baseurl }}/css/Terminal-Grotesque/font/terminal-grotesque-webfont.eot");
     src: url("{{ site.baseurl }}/css/Terminal-Grotesque/font/terminal-grotesque-webfont.eot?#iefix") format('embedded-opentype'),
          url("{{ site.baseurl }}/css/Terminal-Grotesque/font/terminal-grotesque-webfont.woff2") format('woff2'),
@@ -19,7 +19,7 @@
 
 body {
     overflow-x: hidden;
-    font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif,terminal_grotesque;
+    font-family: "'terminal_grotesque',Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
     color: #{{ site.data.template.color.secondary-dark }};
 }
 
