@@ -1,9 +1,10 @@
 url: https://www.repairgal.ca
+baseurl: /RepairGal/
 
 # Site settings
 title: RepairGal eShop
 email: RepairGal@protonmail.com
-description: "RepairGal, woman run international console/electronical device repair, and modding services based in Ontario Canada."
+description: "RepairGal, a woman run international console/electronical device repair, and modding services based in Ontario Canada."
 
 
 # Team names, titles and social links
