@@ -4,8 +4,8 @@ subtitle: System Repair and Diagnostics
 layout: default
 modal-id: 2
 date: 2026-02-14
-img: escape.png
-thumbnail: escape-thumbnail.png
+img: IMG_20260214_225719_986_Testing.png
+thumbnail: IMG_20260214_225719_986_Testing-thumbnail.png
 alt: image-alt
 project-date: Feburary 2026
 client: RepairGal Order
