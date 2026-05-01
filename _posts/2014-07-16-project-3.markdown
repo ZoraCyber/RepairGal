@@ -4,8 +4,8 @@ subtitle: Circuit Testing and Repair
 layout: default
 modal-id: 3
 date: 2026-03-13
-img: golden.png
-thumbnail: golden-thumbnail.png
+img: IMG_20260313_034409_684_BR.png
+thumbnail: IMG_20260313_034409_684_BR-thumbnail.png
 alt: image-alt
 project-date: March 2026
 client: RepairGal Order
