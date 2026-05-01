@@ -4,7 +4,7 @@ subtitle: Shell & Case Restoration
 layout: default
 modal-id: 1
 date: 2026-02-14
-img: IMG_20260214_025203.jpg
+img: IMG_20260214_Case.png
 thumbnail: dreams-thumbnail.png
 alt: image-alt
 project-date: Feburary 2026
