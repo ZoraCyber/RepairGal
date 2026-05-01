@@ -1,15 +1,15 @@
 ---
-title: Golden
-subtitle: Website Design
+title: Board Repair Services
+subtitle: Circuit Testing and Repair
 layout: default
 modal-id: 3
-date: 2014-07-16
+date: 2026-03-13
 img: golden.png
 thumbnail: golden-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: March 2026
+client: RepairGal Order
+category: Console Repair
+description: We also do circuit board repair services, above you'll find an example of Zora's work, replacing video output filter capacitors on an early model Nintendo Wii, this unit was not accepting the cap used for composite output filter, so it was cleanly shorted to bypass it, this is a safe fix and has no effect on the Wii's output feed. We've also done other repairs such as a 1.8vdc regulator swap from a donor Wii, with success.
 
 ---
