@@ -5,7 +5,7 @@ layout: default
 modal-id: 1
 date: 2026-02-14
 img: IMG_20260214_Case.png
-thumbnail: dreams-thumbnail.png
+thumbnail: IMG_20260214_Case-thumbnail.png
 alt: image-alt
 project-date: Feburary 2026
 client: RepairGal Order
