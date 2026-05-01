@@ -1,15 +1,15 @@
 ---
-title: Escape
-subtitle: Website Design
+title: Full System Refurbishment
+subtitle: System Repair and Diagnostics
 layout: default
 modal-id: 2
-date: 2014-07-17
+date: 2026-02-14
 img: escape.png
 thumbnail: escape-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: Feburary 2026
+client: RepairGal Order
+category: Console Repair
+description: We provide full system refurbishment, diagnostics, and repair for every unit that comes into our shop. You can expect only the best care, all systems get fully cleaned inside and out, fresh thermal paste is always applied (that is if the system is new to our shop or has a big service gap) and all functionality gets tested to ensure that it works as the original engineers intended, if not better. Our goal is to extend the lifespan of each unit that comes our way, regardless if it's one of our in-house repair and direct to sale units, or an ordered service request, we'll pour our hearts into it.
 
 ---
