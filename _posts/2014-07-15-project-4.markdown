@@ -4,8 +4,8 @@ subtitle: Wii 5vdc Standby Fan Mod
 layout: default
 modal-id: 4
 date: 2026-03-13
-img: treehouse.png
-thumbnail: treehouse-thumbnail.png
+img: IMG_20260313_034530_099_5vdc_Fan_Mod.png
+thumbnail: IMG_20260313_034530_099_5vdc_Fan_Mod-thumbnail.png
 alt: A photograph showcasing the installation of the 5vdc fan mod for early six layer Wii motherboards.
 project-date: March 2026
 client: RepairGal Order
