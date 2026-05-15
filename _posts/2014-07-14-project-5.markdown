@@ -1,15 +1,15 @@
 ---
-title: Startup Framework
-subtitle: Website Design
+title: Handheld and Controller Repair
+subtitle: NDSi Shoulder Button Replacement
 layout: default
 modal-id: 5
-date: 2014-07-14
+date: 2026-04-02
 img: startup-framework.png
 thumbnail: startup-framework-thumbnail.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+alt: A photograph of a successful NDSi shoulder button replacement.
+project-date: April 2026
+client: Personal Repair
+category: Console Repair
+description: We have select experince in handheld and controller repair aswell, the above picture shows a shoulder button that Zora replaced on a NDSi.
 
 ---
