@@ -9,7 +9,7 @@ thumbnail: IMG_20260313_034530_099_5vdc_Fan_Mod-thumbnail.png
 alt: A photograph showcasing the installation of the 5vdc fan mod for early six layer Wii motherboards.
 project-date: March 2026
 client: RepairGal Order
-category: Web Development
+category: Console Modding
 description: We also do basic modding and mod-chip services, such as RGH, and JTAG Xbox360 exploits. Even 5v fan mods for early Wii Models, to prevent well documented overheating issues from standby mode. All of our early model six layer Wii motherboards RVL-01 through RVL-30 ship with this mod automatically unless it's a repair service unit, which we will then ask if you would like the free install during your ordered service. Mod-chip services however do come with a fee.
 
 ---
