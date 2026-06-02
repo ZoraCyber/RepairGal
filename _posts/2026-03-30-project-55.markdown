@@ -2,7 +2,7 @@
 title: Custom Solutions
 subtitle: Custom 3D Printed Server Case
 layout: default
-modal-id: 6
+modal-id: 5
 date: 2026-03-30
 img: IMG_20260330_131820_CS.png
 thumbnail: IMG_20260330_131820_CS-thumbnail.png
