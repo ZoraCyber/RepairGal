@@ -1,15 +1,15 @@
 ---
-title: Round Icons
-subtitle: Graphic Design
+title: Custom Solutions
+subtitle: Custom 3D Printed Server Case
 layout: default
 modal-id: 6
-date: 2014-07-15
+date: 2026-03-30
 img: roundicons.png
 thumbnail: roundicons-thumbnail.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+alt: A photograph of a green 3D printed shell for a server.
+project-date: March 2026
+client: Personal
+category: Custom Design
+description: The above image is just an example of a custom soulution Zora has assembled for personal use, incasing her home lab server. If you are interested in custom services, such as custom painted console shells, custom designed cases for electronics, and much more. Please reach out via email or through our un-static form near the bottom of the main page, to get in touch for a free quote.
 
 ---
