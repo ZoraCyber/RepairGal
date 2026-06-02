@@ -4,8 +4,8 @@ subtitle: Custom 3D Printed Server Case
 layout: default
 modal-id: 6
 date: 2026-03-30
-img: roundicons.png
-thumbnail: roundicons-thumbnail.png
+img: IMG_20260330_131820_CS.png
+thumbnail: IMG_20260330_131820_CS-thumbnail.png
 alt: A photograph of a green 3D printed shell for a server.
 project-date: March 2026
 client: Personal
