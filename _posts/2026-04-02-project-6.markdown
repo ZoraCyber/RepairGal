@@ -2,7 +2,7 @@
 title: Handheld and Controller Repair
 subtitle: NDSi Shoulder Button Replacement
 layout: default
-modal-id: 5
+modal-id: 6
 date: 2026-04-02
 img: IMG_20260402_115220_261_DSi_Repair.png
 thumbnail: IMG_20260402_115220_261_DSi_Repair-thumbnail.png
